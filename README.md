@@ -1,6 +1,6 @@
 ## About Jeffrey Wang
 ### Hi, I am Jeffrey Wang
-![IMG_3030](https://user-images.githubusercontent.com/96850874/147764416-91df0087-ae20-447c-a80e-6ed63b946be8.JPG)
+![CF1DF201-E7F8-4AFD-BDAD-FF4FFE7CBBCB_4_5005_c](https://user-images.githubusercontent.com/96850874/147770654-6d698088-9b21-4e96-a135-4c743e110a4f.jpeg)
 
 
 
