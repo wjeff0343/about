@@ -9,9 +9,6 @@ I am a undergraduate student at Western University, studying Computer Engineerin
 In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers,and Embedded System Design.
 ### Skills
 These are just a few of the technologies I have recently worked with:
--  SAP Getting Started with Data Science (Edition 2021)                        
--  SAP S/4HANA Embedded Analytics                          
--  SAP Introduction to ABAP in the Cloud
 -  PCB Design (EAGLE)
 -  Object Oriented Programming (IntelliJ,PyCharm)                           
 
@@ -31,3 +28,7 @@ These are just a few of the technologies I have recently worked with:
 - Implmented creative designs and innovated upon simple systems to achive objectives
 - Leadership and Morale support for entire team
 - Organized and punctual meetings to manage schedules, design progress, and potential new leads that could be devolped
+### Certificates
+-  SAP Getting Started with Data Science (Edition 2021)                        
+-  SAP S/4HANA Embedded Analytics                          
+-  SAP Introduction to ABAP in the Cloud
