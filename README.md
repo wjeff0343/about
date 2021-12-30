@@ -17,7 +17,6 @@ These are just a few of the technologies I have recently worked with:
 
 
 ### Projects
-### Certificates
 #### Smart Home Devolpment
 ##### September 2019-December 2019
 - Built three unique electronic circuts that functioned conjointly with Arduino Uno
@@ -29,7 +28,6 @@ These are just a few of the technologies I have recently worked with:
 - Implmented creative designs and innovated upon simple systems to achive objectives
 - Leadership and Morale support for entire team
 - Organized and punctual meetings to manage schedules, design progress, and potential new leads that could be devolped
-
 
 ### Certificates
 -  SAP Getting Started with Data Science (Edition 2021)                        
