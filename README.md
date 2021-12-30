@@ -22,6 +22,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Projects
 #### Smart Home Devolpment
 ##### September 2019-December 2019
--Built three unique electronic circuts that functioned conjointly with Arduino Uno
--Compiled C++ Code that intergrated the software aspect of the smart home with the built senosrs and accuators
--Tested an Analyzed all aspects of the system to ensure effiecincy and smooth deployment
+- Built three unique electronic circuts that functioned conjointly with Arduino Uno
+- Compiled C++ Code that intergrated the software aspect of the smart home with the built senosrs and accuators
+- Tested an Analyzed all aspects of the system to ensure effiecincy and smooth deployment
