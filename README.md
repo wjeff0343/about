@@ -4,7 +4,8 @@
 
 
 
-I am a undergraduate student at Western University, studying Computer Engineering: Electronic Devices for Ubiquitous Computing.I'm Current based in London, Ontario at the moment.
+I am a undergraduate student at Western University, studying Computer Engineering: Electronic Devices for Ubiquitous Computing.I'm currently based in London, Ontario at the moment.
+
 In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers,and Embedded System Design.
 ### Skills
 These are just a few of the technologies I have recently worked with:
@@ -14,10 +15,13 @@ These are just a few of the technologies I have recently worked with:
 -  PCB Design (EAGLE)
 -  Object Oriented Programming (IntelliJ,PyCharm)                           
 
-### Jekyll Themes
+### Leadership Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wjeffrey451/AboutMe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Projects
+#### Smart Home Devolpment
+##### September 2019-December 2019
+-Built three unique electronic circuts that functioned conjointly with Arduino Uno
+-Compiled C++ Code that intergrated the software aspect of the smart home with the built senosrs and accuators
+-Tested an Analyzed all aspects of the system to ensure effiecincy and smooth deployment
