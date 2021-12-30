@@ -23,7 +23,7 @@ These are just a few of the technologies I have recently worked with:
 - Built three unique electronic circuts that functioned conjointly with Arduino Uno
 - Compiled C++ Code that intergrated the software aspect of the smart home with the built senosrs and accuators
 - Tested an Analyzed all aspects of the system to ensure effiecincy and smooth deployment
-#### 2.
+#### 2. Engineering Project Design
 ##### September 2018- March 2019
 - Team Development of complex  coin flipping Rube Goldbery machine.
 - Implmented creative designs and innovated upon simple systems to achive objectives
