@@ -17,6 +17,7 @@ These are just a few of the technologies I have recently worked with:
 
 
 ### Projects
+### Certificates
 #### Smart Home Devolpment
 ##### September 2019-December 2019
 - Built three unique electronic circuts that functioned conjointly with Arduino Uno
