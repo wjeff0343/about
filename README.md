@@ -1,5 +1,5 @@
 ### Hi, I am Jeffrey Wang
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 I am a undergraduate student at Western University, studying Computer Engineering: Electronic Devices for Ubiquitous Computing.I'm Current based in London, Ontario at the moment.
 In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers,and Embedded System Design.
 ### Skills
