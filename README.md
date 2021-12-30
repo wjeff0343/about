@@ -1,5 +1,10 @@
 ### Hi, I am Jeffrey Wang
-![This is an image]
+![IMG_3030](https://user-images.githubusercontent.com/96850874/147764019-ea4d5d9d-9c9a-4e38-a19a-d469eed724c0.JPG)
+
+
+
+
+
 I am a undergraduate student at Western University, studying Computer Engineering: Electronic Devices for Ubiquitous Computing.I'm Current based in London, Ontario at the moment.
 In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers,and Embedded System Design.
 ### Skills
