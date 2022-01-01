@@ -13,9 +13,6 @@ These are just a few of the technologies I have recently worked with:
 -  PCB Design (EAGLE)
 -  Object Oriented Programming (IntelliJ, PyCharm)                           
 
-### Leadership Experience
-
-
 
 ### Projects
 
