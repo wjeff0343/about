@@ -5,7 +5,7 @@
 
 
 
-I am graduating undergraduate student at Western University, who studied Computer Engineering: Electronic Devices for Ubiquitous Computing. 
+I am a graduating undergraduate student at Western University, who studied Computer Engineering: Electronic Devices for Ubiquitous Computing. 
 
 In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers, and Embedded System Design.
 ### Skills
