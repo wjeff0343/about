@@ -5,32 +5,36 @@
 
 
 
-I am a graduating undergraduate student at Western University, who studied Computer Engineering: Electronic Devices for Ubiquitous Computing. 
+I graduated from Western University , with a Bachelors Degree in Computer Engineering. 
+These are just some of the thing I studied:
+-  Computer Science Fundamentals•VLSI Implementation
+-  Data Structures and Algorithms•Control Systems
+-  System Programming•Computer Networking
+-  Microprocessors and Microcomputers•Communication Theory
+-  Hardware and Software Co-Design•Advanced Digital Systems
 
-In terms of experience, I have worked with Data Structures and Algorithms, Microprocessors and Microcontrollers, and Embedded System Design.
+
+
 ### Skills
 These are just a few of the technologies I have recently worked with:
 -  PCB Design (EAGLE)
--  Object Oriented Programming (IntelliJ, PyCharm)                           
-
-
-### Projects
-
-#### 1. Smart Home Devolpment
-##### September 2019-December 2019
-- Built three unique electronic circuits that functioned conjointly with Arduino Uno
-- Compiled C++ Code that integrated the software aspect of the smart home with the built sensors and actuators
-- Tested and analyzed all aspects of the system to ensure efficiency and smooth deployment
-
-#### 2. Engineering Project Design
-##### September 2018- March 2019
-- Team Development of complex coin flipping Rube Goldberg machine
-- Implemented creative designs and innovated upon simple systems to achieve objectives
-- Leadership and Morale support for entire team
-- Organized and punctual meetings to manage schedules, design progress, and potential new leads that could be developed
+-  Object Oriented Programming (IntelliJ, PyCharm) 
+-  Data Structures and Algorithms•PCB Design
+-  Object-Oriented Programming•IC and RISC Design
+-  FPGA software Development•Network Architecture Basics
+-  Embedded System DesignKnowledge of Cloud Networking
+-  Microcontroller Theory and Application••Distributed Systems Management
+-  PCB Design
+-  Object-Oriented Programming
+-  IC and RISC Design
+-  FPGA software Development•Network Architecture Basics
+-  Embedded System DesignKnowledge of Cloud Networking
+-  Microcontroller Theory and Application
+-  Distributed Systems Management
 
 
 ### Certificates
 -  SAP Getting Started with Data Science (Edition 2021)                        
 -  SAP S/4HANA Embedded Analytics                          
 -  SAP Introduction to ABAP in the Cloud
+-  SAP Python for Beginners
