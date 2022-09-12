@@ -7,11 +7,16 @@
 
 I graduated from Western University , with a Bachelors Degree in Computer Engineering. 
 These are just some of the thing I studied:
--  Computer Science Fundamentals•VLSI Implementation
--  Data Structures and Algorithms•Control Systems
--  System Programming•Computer Networking
--  Microprocessors and Microcomputers•Communication Theory
--  Hardware and Software Co-Design•Advanced Digital Systems
+-  Computer Science Fundamentals
+-  VLSI Implementation
+-  Data Structures and Algorithms
+-  Control Systems
+-  System Programming
+-  Computer Networking
+-  Microprocessors and Microcomputers
+-  Communication Theory
+-  Hardware and Software Co-Design
+-  Advanced Digital Systems
 
 
 
@@ -19,11 +24,11 @@ These are just some of the thing I studied:
 These are just a few of the technologies I have recently worked with:
 -  PCB Design (EAGLE)
 -  Object Oriented Programming (IntelliJ, PyCharm) 
--  Data Structures and Algorithms•PCB Design
--  Object-Oriented Programming•IC and RISC Design
--  FPGA software Development•Network Architecture Basics
+-  Data Structures and Algorithms
+-  Object-Oriented Programming
+-  FPGA software Development
 -  Embedded System DesignKnowledge of Cloud Networking
--  Microcontroller Theory and Application••Distributed Systems Management
+-  Microcontroller Theory and Application
 -  PCB Design
 -  Object-Oriented Programming
 -  IC and RISC Design
